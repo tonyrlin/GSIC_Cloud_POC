@@ -1,0 +1,15 @@
+{
+  "name": "restfulapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Restful.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Restful.js"
+  },
+  "author": "Tony R. Lin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
